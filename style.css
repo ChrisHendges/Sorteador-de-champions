@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  background-color: coral;
+}
+#cal {
+  width: 100px;
+}
+#txtn {
+  margin-right: 100px;
+}
+
+#flex {
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color:  coral;
+}
+#layout {
+  padding: 30px;
+  background-color: rgb(66, 57, 57);
+  color: rgb(255, 255, 255);
+  border-radius: 60px;
+  width: 600px;
+  height: 500px;
+}
+#selttab {
+  width: 150px;
+  height: 200px;
+}
